@@ -1,12 +1,12 @@
-<!-- H: Header -->
-<h1 align="center">Hi 👋, I'm Loza Belay</h1>
-<h3 align="center">Software Engineering Student & Full-Stack Web Developer</h3>
-
-<!-- T: Typing Animation -->
-<p align="center">
+<!-- H & T: Header & Animated Typing Banner (Name + Roles) -->
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+Haramaya+University;Full-Stack+Web+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Loza+Belay!;Software+Engineering+Student;Full-Stack+Web+Developer;React+%26+TypeScript+Specialist" alt="Typing SVG" />
   </a>
+</h1>
+
+<p align="center">
+  <b>Software Engineering Student @ Haramaya University & Full-Stack Web Developer</b>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ### 💫 About Me
 
 - 🎓 **Software Engineering Student** at **Haramaya University**
-- 💻 **Full-Stack Developer** specializing in building modern web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**
+- 💻 **Full-Stack Web Developer** specializing in building modern web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**
 - 📍 Based in **Bale Robe, Ethiopia**
-- ✉️ Contact: **[finotbelay88@gmail.com](mailto:finotbelay88@gmail.com)**
+- ✉️ Email: **[finotbelay88@gmail.com](mailto:finotbelay88@gmail.com)**
 - 📱 Phone: `0964324468`
 
 ---
@@ -39,7 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-#### **Tools**
+#### **Tools & Platform**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -52,10 +52,10 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| ☕ **BrewMotio** | Coffee & Beverage Ordering Platform | React, Tailwind, Node.js | [Live Demo](https://brewmotio.onrender.com/) • [GitHub](https://github.com/Lozabelay/BrewMotio.git) |
-| 🏨 **ODA Hotel** | Digital Guest Menu & Ordering System | React, TypeScript, Express | [Live Demo](https://digital-guest-menu-1.onrender.com/) • [GitHub](https://github.com/Lozabelay/digital_guest_menu.git) |
+| ☕ **BrewMotio** | Coffee & Beverage Platform | React, Tailwind, Node.js | [Live Demo](https://brewmotio.onrender.com/) • [GitHub](https://github.com/Lozabelay/BrewMotio.git) |
+| 🏨 **ODA Hotel** | Digital Guest Menu Platform | React, TypeScript, Express | [Live Demo](https://digital-guest-menu-1.onrender.com/) • [GitHub](https://github.com/Lozabelay/digital_guest_menu.git) |
 | 🚌 **FalconGo** | Bus Transportation Booking Platform | React, Node.js, Express | [Live Demo](https://bus-station-1-dsws.onrender.com/) • [GitHub](https://github.com/Lozabelay/-bus_station.git) |
-| 🏞️ **Bale Explorer** | Tourism & Biodiversity Explorer | React, Tailwind | [Live Demo](https://bale-explorer.onrender.com/) • [GitHub](https://github.com/Lozabelay/-bale_explorer.git) |
+| 🏞️ **Bale Explorer** | Digital Tourism Explorer | React, Tailwind | [Live Demo](https://bale-explorer.onrender.com/) • [GitHub](https://github.com/Lozabelay/-bale_explorer.git) |
 | 📦 **Productify** | Product Management System | MERN Stack | [Live Demo](https://productify-1-i9lq.onrender.com/) • [GitHub](https://github.com/Lozabelay/productify.git) |
 | 📚 **Amharic Lit Hub** | Digital Literature Platform | React, Web APIs | [GitHub](https://github.com/Lozabelay/amahriclithub.git) |
 
