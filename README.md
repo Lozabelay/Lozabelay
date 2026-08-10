@@ -1,7 +1,7 @@
 <!-- H & T: Header & Animated Typing Banner (Name + Roles) -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Loza+Belay!;Software+Engineering+Student;Full-Stack+Web+Developer;Software+%26+Web+Engineer" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Loza+Belay!;Software+Engineering+Student;Full-Stack+Web+Developer;React+%26+TypeScript+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 ### 💫 About Me
 
 - 🎓 **Software Engineering Student** at **Haramaya University**
-- 💻 **Full-Stack Web Developer** specializing in building modern web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**
+- 💻 **Full-Stack Web Developer** building modern web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**
 - 📍 Based in **Bale Robe, Ethiopia**
 - ✉️ Email: **[finotbelay88@gmail.com](mailto:finotbelay88@gmail.com)**
 - 📱 Phone: `0964324468`
@@ -61,18 +61,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lozabelay&show_icons=true&theme=tokyonight" alt="Loza's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lozabelay&show_icons=true&theme=dark" alt="Loza's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lozabelay&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lozabelay&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lozabelay&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
