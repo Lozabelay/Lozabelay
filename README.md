@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-<h1 align="center">Hi 👋, I'm Loza Belay</h1>
 <h3 align="center">Software Engineering Student & Full-Stack Web Developer</h3>
