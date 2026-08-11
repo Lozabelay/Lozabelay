@@ -18,7 +18,7 @@
 - 💻 **Full-Stack Web Developer** building modern web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**
 - 📍 Based in **Bale Robe, Ethiopia**
 - ✉️ Email: **[finotbelay88@gmail.com](mailto:finotbelay88@gmail.com)**
-- 📱 Phone: `0964324468`
+
 
 ---
 
