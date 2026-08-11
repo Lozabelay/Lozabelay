@@ -56,7 +56,7 @@
 | 🏨 **ODA Hotel** | Digital Guest Menu & Ordering System | React, TypeScript, Express | [Live Demo](https://digital-guest-menu-1.onrender.com/) • [GitHub](https://github.com/Lozabelay/digital_guest_menu.git) |
 | 🚌 **FalconGo** | Bus Transportation Booking Platform | React, Node.js, Express | [Live Demo](https://bus-station-1-dsws.onrender.com/) • [GitHub](https://github.com/Lozabelay/-bus_station.git) |
 | 🏞️ **Bale Explorer** | Tourism & Biodiversity Explorer | React, Tailwind | [Live Demo](https://bale-explorer.onrender.com/) • [GitHub](https://github.com/Lozabelay/-bale_explorer.git) |
-| 📦 **Productify** | Product Management System | MERN Stack | [Live Demo](https://productify-1-i9lq.onrender.com/) • [GitHub](https://github.com/Lozabelay/productify.git) |
+| 📦 **Productify** | Product Management System | PERN Stack | [Live Demo](https://productify-1-i9lq.onrender.com/) • [GitHub](https://github.com/Lozabelay/productify.git) |
 | 📚 **Amharic Lit Hub** | Digital Literature Platform | React, Web APIs | [GitHub](https://github.com/Lozabelay/amahriclithub.git) |
 
 ---
